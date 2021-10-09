@@ -2,5 +2,8 @@
   "name": "Turn Blue!",
   "description": "Turns a web page blue when user clicks the icon",
   "version": "1.0",
-  "manifest_version": 3
+  "manifest_version": 3,
+  "background": {
+    "service_worker": "background.js"
+  }
 }
