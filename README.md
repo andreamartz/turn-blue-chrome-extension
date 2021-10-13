@@ -39,7 +39,7 @@ Some code comments were written after consulting the following reference:
 
    ![load-unpacked](./images/chrome-extensions-page-load-unpacked.png)
 
-6. The extension will now appear on the `chrome://extensions page` (see arrow below) and in the list of extensions shown when clicking on the puzzle piece icon (the extensions menu) in the toolbar.
+6. The extension will now appear on the `chrome://extensions page` (see arrow below) and in the dropdown menu of extensions shown when clicking on the puzzle piece icon (the extensions menu) in the toolbar.
 
    ![extensions-menu](./images/extensions-menu.png)
 
