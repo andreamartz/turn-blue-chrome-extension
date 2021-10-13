@@ -22,7 +22,7 @@ Some code comments were written after consulting the following reference:
 1. Clone this repo to your local machine using [`git clone`](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository 'Cloning a GitHub repository').
 
    Alternatively, you could download a zipped file and then unzip it into a local folder.
-   ![download-a-zipped-file](./images/download-zip-file-of-repo.png)
+   ![download-a-zipped-file](https://res.cloudinary.com/wahmof2/image/upload/v1634141838/turn-blue-chrome-extension/download-zip-file-of-repo.png)
 
 2. If you do not have the Google Chrome Browser installed, you will first need to [download and install it](https://www.google.com/chrome/ 'Download Chrome').
 
