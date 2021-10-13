@@ -11,7 +11,7 @@ I made some small tweaks to the code, such as:
 - changing the name and description in the manifest.json
 - modifying the page background color from green to a shade of blue
 
-Code comments were written after consulting the following references:
+Some code comments were written after consulting the following reference:
 
 - https://developer.chrome.com/docs/extensions/reference/runtime/#event-onInstalled
 
