@@ -43,7 +43,7 @@ Some code comments were written after consulting the following reference:
 
    ![extensions-menu](./images/extensions-menu.png)
 
-7. It is often helpful to pin the extension to the toolbar for easy access. To do this, click on the thumbtack icon in the dropdown menu of extensions. The rest of these instructions will assume that the the extension has been pinned.
+7. It is often helpful to pin the extension to the toolbar for easy access. To do this, find the Turn Blue! extension in the dropdown menu, and click the thumbtack icon next to it. The rest of these instructions will assume that the the extension has been pinned.
 
 ### Use the extension
 
