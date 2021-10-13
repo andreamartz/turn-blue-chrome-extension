@@ -13,7 +13,7 @@ I made some small tweaks to the code, such as:
 
 Some code comments were written after consulting the following reference:
 
-- https://developer.chrome.com/docs/extensions/reference/runtime/#event-onInstalled
+- [Chrome Developer Docs for onInstalled event](https://developer.chrome.com/docs/extensions/reference/runtime/#event-onInstalled 'event onInstalled')
 
 ## Instructions for developers to load / use this extension locally
 
