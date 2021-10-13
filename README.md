@@ -1,6 +1,6 @@
 # Turn Blue!
 
-_Turn Blue_ is a Chrome extension that allows the user to turn the background color of a Chrome browser page blue!
+_Turn Blue!_ is a Chrome extension that allows the user to turn the background color of a Chrome browser page blue!
 
 ## Attributions
 
